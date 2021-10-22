@@ -1,4 +1,9 @@
 {
+  "name": "rocketseat-nlw-heat-impulse-mobile",
+  "version": "1.0.0",
+  "repository": "https://github.com/jobsonita/rocketseat-nlw-impulse-node.git",
+  "author": "Jobson Gilberto Barros Amorim <jobsonita@gmail.com>",
+  "license": "MIT",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
