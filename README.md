@@ -8,6 +8,10 @@ NLW-Heat frontend project with React Native, Expo, Moti, Github OAuth and JWT
 
 Based on [Rocketseat's NLW-Heat design](https://www.figma.com/community/file/1031699316177416916). You might need a [Figma](https://figma.com) account to access the design.
 
+## Final Design
+
+<p align="center"><img alt="Final design for the app" title="NLW-Heat Impulse Final Design" src="./.github/final_design.gif" width="250px"/></p>
+
 ## Tecnologies
 
 - Expo
@@ -31,9 +35,9 @@ git clone https://github.com/jobsonita/rocketseat-nlw-heat-impulse-mobile.git
 
 cd rocketseat-nlw-heat-impulse-web
 
-yarn
+expo
 
 # Finally, run the app:
 
-yarn start
+expo start
 ```
