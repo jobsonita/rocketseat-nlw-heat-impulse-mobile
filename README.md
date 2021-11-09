@@ -3,7 +3,7 @@
 ![Yarn version](https://img.shields.io/badge/yarn-v1.22.15-brightgreen)
 ![Expo version](https://img.shields.io/badge/expo-~43.0.0-brightgreen)
 ![React version](https://img.shields.io/badge/react-^17.0.1-blue)
-![React version](https://img.shields.io/badge/react--native-0.64.2-blue)
+![React Native version](https://img.shields.io/badge/react--native-0.64.2-blue)
 ![Typescript version](https://img.shields.io/badge/typescript-^4.3.5-lightgrey)
 ![Moti version](https://img.shields.io/badge/moti-^0.16.0-blue)
 
