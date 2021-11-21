@@ -64,9 +64,9 @@ git clone https://github.com/jobsonita/rocketseat-nlw-heat-impulse-mobile.git
 
 # wait for git to finish clonning the project, then navigate to the folder and install the dependencies:
 
-cd rocketseat-nlw-heat-impulse-web
+cd rocketseat-nlw-heat-impulse-mobile
 
-expo
+yarn
 
 # Finally, run the app:
 
